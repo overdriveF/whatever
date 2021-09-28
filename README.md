@@ -2,6 +2,6 @@
 
 whatever
 
-# Subheader
+## Subheader
 
 Some random text
